@@ -66,7 +66,7 @@ export default function LandingPage() {
         minHeight: '100vh',
         display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center',
         textAlign: 'center', padding: '7rem 1.5rem 4rem',
-        background: 'linear-gradient(160deg, rgba(26,10,0,0.6) 0%, rgba(61,31,10,0.5) 60%, rgba(26,10,0,0.6) 100%), url("images/covers/wedding-cover.jpeg") center/cover no-repeat',
+        background: 'linear-gradient(160deg, rgba(26,10,0,0.6) 0%, rgba(61,31,10,0.5) 60%, rgba(26,10,0,0.6) 100%), url("images/cover/wedding-cover.jpeg") center/cover no-repeat',
       }}>
         <p style={{ fontSize: '0.75rem', letterSpacing: '0.2em', color: '#b08060', textTransform: 'uppercase', marginBottom: '1.25rem' }}>
           Undangan Digital Elegan
